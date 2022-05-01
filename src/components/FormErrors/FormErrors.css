@@ -1,0 +1,11 @@
+.formErrors{
+    margin-bottom: 10px;
+}
+.formErrors p{
+    padding: 10px;
+    margin: 0;
+    color: #d70505;padding: 10px;
+    border-radius: 0px;
+    background-color: #e7b6b6;
+    margin:0
+}
